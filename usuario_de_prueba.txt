@@ -1,0 +1,5 @@
+En la pagina   miaulacucei.tk se utilizo un usuario predeterminado siguiente:
+user:  123456789
+contraseña: 123456789
+
+para asi lograr ingresar al formulario siguiente
