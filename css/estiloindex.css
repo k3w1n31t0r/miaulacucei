@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+}
+
+body
+{    
+    background-image: url(fondo.jpg);
+	font-family: century;
+}
+
+h2{
+   text-align: center;
+    font-family: 'Barrio', cursive;
+    font-size: 60px;
+    color:black;
+    text-shadow: -5px -5px 5px #aaa,
+                 6px 6px 5px #0f0,
+                 9px 9px 5px #00f;
+}
+table{
+    width: 600px;
+    margin: auto;
+    background: rgba(0,0,0,0.8);
+    padding: 60px 40px;
+    box-sizing: border-box;
+    margin-top: 90px;
+    border-radius: 20px;
+    color: antiquewhite;    
+}
+label{
+    font-size: 25px;
+}
+textarea{
+    min-height: 100px;
+    max-height: 150px;
+    max-width: 100%;
+
+}
+#boton:hover{
+
+    cursor: pointer;
+
+}
+#boton{
+    background: #31384A;
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    padding: 25px;
+    width:200px;
+    height:70px;
+    font-family: century;
+}

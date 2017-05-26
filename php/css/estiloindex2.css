@@ -1,0 +1,43 @@
+body
+{    
+    background-image: url(fondo22.jpg);
+	font-family: century;
+}
+
+.contenedor{
+    text-align:center;
+    font-family: 'Barrio', cursive;
+    font-size: 60px;
+    font-weight:900;
+    color:black;
+    text-shadow: -5px -5px 5px #aaa,
+                 6px 6px 5px #0f0,
+                 9px 9px 5px #00f;
+    
+}
+table{
+    width: 600px;
+    margin: auto;
+    background: rgba(0,0,0,0.8);
+    padding: 60px 40px;
+    box-sizing: border-box;
+    margin-top: 90px;
+    border-radius: 20px;
+    color: antiquewhite; 
+    font-size: 30px;
+}
+
+input{
+    background: #31384A;
+    color: #fff;
+    font-size: 20px;
+    width:200px;
+    height:60px;
+    font-family: century; 
+}
+
+#boton:hover{
+
+    cursor: pointer;
+
+}
